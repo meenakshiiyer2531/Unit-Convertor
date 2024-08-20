@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">conersionapp1</string>
+    <string-array name="length_units">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+    </string-array>
+</resources>
